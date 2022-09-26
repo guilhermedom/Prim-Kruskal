@@ -12,6 +12,3 @@ The points were grouped under these clusters by creating a structure similar to 
 ## Single-linkage clustering approach
 
 By clustering with Prim/Kruskal, the end result is a clustering algorithm by single-linkage. Such results were already analyzed and improved in the literature. Usually, single-linkage algorithms are combined with other clustering approaches to achieve more accurate results: Gionis, A., Mannila, H., & Tsaparas, P. (2007). Clustering aggregation. Acm transactions on knowledge discovery from data (tkdd), 1(1), 4-es.
-
- 
-This repository is an eclipse project. Therefore, it can be directly imported by Eclipse IDEs.
